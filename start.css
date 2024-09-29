@@ -1,0 +1,48 @@
+h1{
+    color:white;
+    text-align: center;
+}
+.first-box{
+    background-color: rgb(88, 3, 84);
+    padding: 80px;
+
+}
+h3{
+    color: white;
+    text-align: center;
+}
+h5{
+    color: white;
+    text-align: center;
+}
+.third-box{
+    background-color: rgb(88, 3, 84);
+    padding: 8px;
+}
+.second-box{
+    background-color: pink;
+    padding: 8px;
+}
+
+.fourth-box{
+    padding: 8px;
+    background-color: pink;
+}
+
+.firth-box{
+    padding: 8px;
+    background-color: rgb(88, 3, 84);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(192, 148, 5);
+    text-decoration: none;;
+}
+
+@media screen and (max-width: 600px){
+
+    
+}
